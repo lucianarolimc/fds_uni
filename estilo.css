@@ -33,6 +33,7 @@
 	border-style:inset;
 	border-radius: 10px;
 	border-color: rgb(0, 153, 255);
+	font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .tabela tr:hover{
@@ -42,4 +43,31 @@
 .tabela th:hover{
 	font-weight:lighter;
 	font-style: italic;
+}
+
+.imagemnordeste:hover{
+	transform: scale(1.2);
+}
+
+.imggrecia:hover{
+	transform: scale(1.2);
+}
+
+.imgcostarica:hover{
+	transform: scale(1.2);
+}
+
+.linkmpb:hover{
+	font-size: larger;
+	color:rgb(0, 153, 255);	
+}
+
+.linkia:hover{
+	font-size: larger;
+	color:rgb(189, 11, 55);	
+}
+
+.linkfilmes:hover{
+	font-size: larger;
+	color:rgb(8, 128, 4);	
 }
